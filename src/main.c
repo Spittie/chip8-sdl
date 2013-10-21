@@ -215,7 +215,7 @@ int main(int argc, char **argv) {
 			}
 			SDL_Flip(screen);
 			
-			draw == 0;
+			draw = 0;
 		
 		}
 		
